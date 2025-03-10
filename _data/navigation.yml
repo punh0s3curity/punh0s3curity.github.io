@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Malware analysis"
+    url: /malware analysis/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
